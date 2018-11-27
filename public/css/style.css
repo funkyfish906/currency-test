@@ -1,0 +1,17 @@
+.head{
+    display: block;
+    padding: 15px 20px;
+    margin-bottom: 40px;
+    text-align: center;
+    background-color: #0275d8;
+}
+
+.head a, .head a:hover{
+    color: #fff;
+    font-weight: 700;
+}
+
+#accordion .card-header a{
+    display: inline-block;
+    width: 100%;
+}
